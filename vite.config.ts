@@ -35,6 +35,11 @@ export default defineConfig({
     // for dicom-parser
     viteCommonjs(),
   ],
+  server: {
+    port : 3000
+  },
+
+  //server: {     host: 'demoec.localhost', // Custom subdomain for localhostport: 3000, // Optional: Port number }
   // seems like only required in dev mode
   optimizeDeps: {
     exclude: ["@cornerstonejs/dicom-image-loader"],

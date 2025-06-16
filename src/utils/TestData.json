@@ -1,0 +1,27 @@
+
+
+{
+  "seriesid": "739603e0-38d1-43a6-bc78-d6d9047fd4d7",
+  "modality": "CT",
+  "num_series_instances": 110,
+  "performed_procedure_step_start_date": "",
+  "performed_procedure_step_start_time": "",
+  "request_attributes_sequence": "",
+  "requested_procedure_id": "",
+  "scheduled_procedure_step_id": "",
+  "series_date": "",
+  "series_description": "",
+  "series_instance_uid": "1.2.826.0.1.3680043.8.498.37107348674493727989317171262374513543",
+  "series_number": 4,
+  "series_time": "",
+  "study_instance_uid": "1.2.826.0.1.3680043.8.498.90643550724363360690907734791443036773",
+  "studyInstanceUID": "1.2.826.0.1.3680043.8.498.90643550724363360690907734791443036773",
+  "studyDate": "",
+  "accessionNumber": "",
+  "patientID": "000004",
+  "patientName": "AnonymousHN4",
+  "numberOfStudyRelatedInstances": 0,
+  "description": "",
+  "modalitiesInStudy": "CT",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYTk1ODg0OC1hNWZiLTQ5OGEtYmIyOS1iZWYzMTM2ZmI2MDAiLCJ1c2VySWQiOiJkYTk1ODg0OC1hNWZiLTQ5OGEtYmIyOS1iZWYzMTM2ZmI2MDAiLCJmaXJzdE5hbWUiOiJOYW5kYW4iLCJsYXN0TmFtZSI6Imt1bWFyIiwibWlkZGxlTmFtZSI6bnVsbCwiZW1haWwiOiJuYW5kYW5rdW1hcjNtQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiOTc0MTY1NjkxMSIsInVzZXJOYW1lIjoibmttIiwicGFzc3dvcmQiOiIwYjJjOTRmZjM5NjYyNWJkZjY4ZjAyNGI4NWVhMmZmYSIsImFjdGl2YXRpb25LZXkiOiJkYWI4YTAyNDcwYTNhZjQ0NWI2ZDc2MDBhN2M3MTNmMCIsInN0YXR1cyI6MSwidXNlclN0YXR1cyI6MCwiY3JlYXRlZF9vbiI6IjIwMjUtMDEtMTBUMDk6NTg6NTQuNDI5WiIsInVwZGF0ZWRfb24iOiIyMDI1LTAxLTEwVDA5OjU5OjMxLjQ3MloiLCJyb2xlSWQiOiI1NTg2YmMzYS1jMTc1LTQ4ZmQtODQ0OC1kNWUwNjk4YWJmYzEiLCJob3NwaXRhbElkIjoiNjM1ZDhmYzktZGI1Ni00MDZiLThkZjYtZjZjYjJlYWRlNmVjIiwiZm9yZ290UGFzc3dvcmRLZXkiOm51bGwsImZvcmdvdFBhc3N3b3JkQ3JlYXRpb25UaW1lIjpudWxsLCJyb2xlIjp7InJvbGVJZCI6IjU1ODZiYzNhLWMxNzUtNDhmZC04NDQ4LWQ1ZTA2OThhYmZjMSIsInJvbGVOYW1lIjoiUGh5c2ljaXN0IiwiZGFzaGJvYXJkY29uZmlnSWRzIjpudWxsLCJzdGF0dXMiOjEsImNyZWF0ZWRfb24iOiIyMDI1LTAxLTA5VDAwOjAwOjAwLjAwMFoiLCJ1cGRhdGVkX29uIjoiMjAyNS0wMS0wOVQwMDowMDowMC4wMDBaIn0sImhvc3BpdGFscyI6eyJob3NwaXRhbElkIjoiNjM1ZDhmYzktZGI1Ni00MDZiLThkZjYtZjZjYjJlYWRlNmVjIiwiaG9zcGl0YWxOYW1lIjoiYXBoY29yIiwiaG9zcGl0YWxUeXBlIjoiQ29ycG9yYXRlIiwiY29kZSI6IiIsImFycmF5SW1wb3J0IjpmYWxzZSwiZW1haWwiOiJhcGljaHVAZ21haWwuY29tIiwiYWRkcmVzcyI6bnVsbCwiYXJlYUNvZGUiOm51bGwsInBob25lIjoiMTIzNDU2Nzg5MCIsInN0YXR1cyI6MSwiY3JlYXRlZE9uIjoiMjAyNS0wMS0wOVQwNTo0MjowNC4zMzVaIiwidXBkYXRlZE9uIjoiMjAyNS0wMS0wOVQwNTo0MjowNC4zMzVaIiwiY291bnRyeUlkIjoxMDEsInN0YXRlSWQiOjQwMjYsImNpdHlJZCI6NTc4NDd9LCJpYXQiOjE3NDkxMTc5Mjh9.e1wzrDWOBwoyzVBw5oYQnJAzxt8aGtycWTUDdEfFM1U"
+}

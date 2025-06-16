@@ -2,11 +2,13 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import Nifti from './Nifti.tsx'
-import './index.css'
+import './index.css';
+import Patient from './patient.tsx';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <Patient/>
     {/* <Nifti /> */}
   </React.StrictMode>,
 )
